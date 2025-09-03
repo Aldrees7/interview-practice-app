@@ -170,6 +170,6 @@ MIT (or your preferred license)
 
 ---
 
-## 🙌 Credits
+## Credits
 
-Built by **Abdullah Aldrees** as part of AI/ML practice (MSc in AI, Tech & Sustainability + Turing AI Engineering track).
+Built by **Abdullah Aldrees** as part of AI/ML practice (Turing AI Engineering track).
